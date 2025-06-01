@@ -31,10 +31,3 @@ This documentation is divided into standalone pages—one per concept—so you c
 | [[Vault/04 Projects/DiagramFlow V2/glossary\|glossary]]                                            | Rapid lookup for any keyword or acronym                       |
 
 Need something not here? Open an issue or reach out. Happy modelling!
-
-
-```
----
-dg-publish: true
----
-```
