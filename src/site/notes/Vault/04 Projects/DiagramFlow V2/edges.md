@@ -6,16 +6,16 @@
 
 Edges connect nodes and define runtime behaviour.
 
-| Operator | Name                | Typical Use |
-|----------|---------------------|-------------|
-| `->`     | Sequence            | Standard step |
-| `<->`    | Bidirectional       | Hand‑shake protocols |
-| `-/>`    | Error               | Exception or rollback |
-| `~>`     | Async               | Fire‑and‑forget call |
-| `=>`     | Fork (fan‑out)      | Parallel branches |
-| `==`     | Merge (fan‑in)      | Wait‑all join |
-| `^>`     | Trigger / Event     | Reactive edge |
-| `*->`    | Loop / Retry        | Iteration |
+| Operator | Name            | Typical Use           |
+| -------- | --------------- | --------------------- |
+| `->`     | Sequence        | Standard step         |
+| `<->`    | Bidirectional   | Hand‑shake protocols  |
+| `-/>`    | Error           | Exception or rollback |
+| `~>`     | Async           | Fire‑and‑forget call  |
+| `=>`     | Fork (fan‑out)  | Parallel branches     |
+| `==`     | Merge (fan‑in)  | Wait‑all join         |
+| `^>`     | Trigger / Event | Reactive edge         |
+| `*->`    | Loop / Retry    | Iteration             |
 
 ## Syntax
 ```txt

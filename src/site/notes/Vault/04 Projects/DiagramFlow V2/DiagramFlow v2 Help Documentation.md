@@ -17,7 +17,7 @@ This documentation is divided into standalone pages—one per concept—so you c
 1. Open [[Vault/04 Projects/DiagramFlow V2/syntax_overview\|syntax_overview]] for a five‑minute crash course.  
 2. Browse [[Vault/04 Projects/DiagramFlow V2/nodes\|nodes]], [[Vault/04 Projects/DiagramFlow V2/edges\|edges]], and [[Vault/04 Projects/DiagramFlow V2/attributes\|attributes]] for deep dives.  
 3. Scan [[Vault/04 Projects/DiagramFlow V2/patterns\|patterns]] for ready‑made flow templates.  
-4. Copy‑paste snippets from [[Vault/04 Projects/DiagramFlow V2/examples\|Vault/04 Projects/DiagramFlow V2/examples]] to kick‑start your own docs.
+4. Copy‑paste snippets from [[Vault/04 Projects/DiagramFlow V2/examples\|examples]] to kick‑start your own docs.
 
 ## Directory / Page Index
 | Page                                                    | Purpose                                                       |

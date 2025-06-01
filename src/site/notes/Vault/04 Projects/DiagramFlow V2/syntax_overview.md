@@ -15,7 +15,7 @@ Login -> Validate
 ```
 
 1. **Comments** start with `//`.
-2. **NODE <Identifier>** declares a node.
+2. NODE `<Identifier>` declares a node.
 3. **Edge operators** (`->`, `<->`, etc) describe flow.
 4. **Attributes** (`TYPE:`, `DESC:`, etc) extend the line with metadata.
 
@@ -28,6 +28,7 @@ Login -> Validate
 | Attribute| Qualify a node or edge          | No |
 
 ## Quick Edge Reference
+
 | Operator | Meaning |
 |----------|---------|
 | `->`     | One‑way sequential flow |
@@ -40,10 +41,12 @@ Login -> Validate
 | `*->`    | Loop / repeat |
 
 ## Example Mini‑Flow
+
 ```txt
 NODE Start      TYPE: Start
 NODE InputCreds TYPE: Input
 NODE Auth       TYPE: Process
 Start -> InputCreds -> Auth
 ```
+
 Save, share, done.

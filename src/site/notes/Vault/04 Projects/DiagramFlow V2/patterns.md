@@ -29,7 +29,7 @@ Notify  -> MergeAll
 ```txt
 NODE SubFlow2FA TYPE: SubFlow REF: "TwoFactorFlow"
 ```
-Open `examples.md` to see this pattern fully expanded.
+Open [[Vault/04 Projects/DiagramFlow V2/examples\|examples]] to see this pattern fully expanded.
 
 ## Saga / Compensation
 ```txt

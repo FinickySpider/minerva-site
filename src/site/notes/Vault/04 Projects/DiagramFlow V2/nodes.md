@@ -122,4 +122,4 @@ Branch2 -> SyncAll
 ---
 
 ## Event / Timer / Guard / Error / SideEffect / SubFlow / Data / Action
-Refer to **glossary.md** for fast lookup plus examples for each minor type.
+Refer to [[Vault/04 Projects/DiagramFlow V2/glossary\|glossary]] for fast lookup plus examples for each minor type.
