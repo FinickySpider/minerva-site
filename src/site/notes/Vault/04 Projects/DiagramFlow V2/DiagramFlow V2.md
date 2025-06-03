@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault/04-projects/diagram-flow-v2/diagram-flow-v2/"}
+{"dg-publish":true,"permalink":"/vault/04-projects/diagram-flow-v2/diagram-flow-v2/","tags":["gardenEntry"]}
 ---
 
 
